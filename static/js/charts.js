@@ -53,6 +53,9 @@ function buildMetadata(sample) {
   });
 }
 
+
+// Deliberable 1
+// Bar Graph
 // 1. Create the buildCharts function.
 function buildCharts(sample) {
 
@@ -100,7 +103,7 @@ function buildCharts(sample) {
     // 10. Use Plotly to plot the data with the layout. 
     Plotly.newPlot("bar", barData, barLayout);
 
-    
+
 // Deliberable 2
 // Bubble charts
 
